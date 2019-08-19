@@ -1,0 +1,4 @@
+[ERROR][article.go:72]2019/07/25 17:30:21 [state 状态只允许0或1]
+[ERROR][article.go:72]2019/07/25 17:30:21 [tag_id 标签ID必须大于0]
+[INFO][auth.go:41]2019/08/08 15:13:05 [Username.Required Can not be empty]
+[INFO][auth.go:41]2019/08/08 15:13:05 [Password.Required Can not be empty]
